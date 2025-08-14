@@ -1,0 +1,4 @@
+beq zero,zero,0
+beq zero,zero,0
+beq zero,zero,0
+beq zero,zero,0
